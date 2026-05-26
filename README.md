@@ -1,1 +1,1 @@
-# Exerc-cios-de-Python01---Comandos-de-Repeti-o
+# Exercicios-de-Python01---Comandos-de-Repeticao
